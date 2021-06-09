@@ -11,9 +11,9 @@
 	<groupId>co.edu.unicundi</groupId>
 	<artifactId>proyectoSpringPrueba</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<name>proyectoSpringPrueba</name>
 	<description>Demo project for Spring Boot</description>
+	<packaging>war</packaging>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
@@ -90,14 +90,6 @@
 			<version>2.3.5.RELEASE</version>
 		</dependency>
 		
-		<dependency>
-
-		<groupId>org.apache.tomcat.embed</groupId>
-		<artifactId>tomcat-embed-jasper</artifactId>
-		<scope>provided</scope>
-
-		</dependency>
-
 		 <dependency>  
 		    
 		 <groupId>org.springframework.boot</groupId>     
